@@ -18,6 +18,14 @@
       "6": "Other"
     }
 	},
+  "ethnicity": {
+    "LongName": "Ethnicity",
+    "Description": "Ethnicity of participants",
+    "Levels": {
+      "1": "Hispanic or Latino",
+      "2": "Not Hispanic or Latino"
+    }
+  },
   "age": {
     "LongName": "Age",
     "Description": "Age in years at imaging"
@@ -57,5 +65,5 @@
    "VSI_datetime": {
   	"LongName": "task-VSI datetime",
 	"Description": "date and time of ses-T1_task-VSI, dates have been randomly shifted -365 to 0 days per subject to preserve anonymity, years shifted to 18XX to make date shifting transparent."
-  } 
+  }
 }
