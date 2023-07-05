@@ -91,5 +91,15 @@
   "VSI_datetime": {
     "LongName": "task-VSI datetime",
     "Description": "date and time of ses-T1_task-VSI, dates have been randomly shifted -365 to 0 days per subject to preserve anonymity, years shifted to 18XX to make date shifting transparent."
+  },
+  "participant_id": {
+    "Annotations": {
+      "IsAbout": {
+        "TermURL": "nb:ParticipantID",
+        "Label": ""
+      },
+      "Identifies": "participant"
+    },
+    "Description": "There should have been a description here, but there wasn't. :("
   }
 }
